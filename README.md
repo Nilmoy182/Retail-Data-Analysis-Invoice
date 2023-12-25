@@ -15,6 +15,8 @@ At the industry level, an end-to-end data pipeline is built for this purpose. To
 
 For our project, we will be focusing on the ‘Order Intelligence’ part of this data pipeline. The image given below shows the architecture of the data pipeline that we will follow in this project.
 
+![image](https://github.com/Nilmoy182/Retail-Data-Analysis-Invoice/blob/main/Architecture.PNG)
+
 Broadly, you will perform the following tasks in this project:
 
 Reading the sales data from the Kafka server
